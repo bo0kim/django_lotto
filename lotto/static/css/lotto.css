@@ -1,0 +1,29 @@
+.page-header {
+   background-color: #652596;
+   margin-top: 0;
+   padding: 20px 20px 20px 40px;
+   /* font-family: 'Space Mono', monospace; */
+   /* font-family: 'Do Hyeon', sans-serif; */
+   font-family: 'Krona One', sans-serif;
+   color: #FFFFFF;
+}
+
+.page-header a {
+  font-family: 'Krona One', sans-serif;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+
+.container p {
+ font-family: 'Do Hyeon', sans-serif;
+}
+
+.container {
+ font-family: 'Space Mono', monospace;
+ /* font-family: 'Montserrat', sans-serif; */
+}
+.container h2 {
+ color: #B9F442;
+ font-family: 'Do Hyeon', sans-serif;
+}
